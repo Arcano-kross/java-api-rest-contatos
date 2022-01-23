@@ -1,8 +1,8 @@
 # Java-api-rest-contatos
 
-##_Padrão Repository_
+## _Padrão Repository_
 
-#**Tecnologias**
+# **Tecnologias**
 - Spring boot web
 - Spring data test
 - Spring data jpa
